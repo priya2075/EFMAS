@@ -1,3 +1,17 @@
+/** 
+ * ---------------------------------------------------------------
+ *   Title: Javascript assignment for Singapore Polytechnic
+ *   Desc: Estate Feedback Management System
+ *   Author: Priya 
+ *   Group: DICS1
+ *   Start date: 07-JULY-2022
+ *   End date: 11-Aug-2022
+ *  --------------------------------------------------------------- 
+**/
+
+
+
+
 // [[ START OF A ]]
 // ----------------------------- (a1) F.I.L.T.E.R - S.E.A.R.C.H - T.A.B.L.E ----------------------------- Search function for searching a particular feedback item
 // NOTE: This function filters words within the table - [[ at input type="search" ]] -  The search bar.  
