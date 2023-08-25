@@ -1,3 +1,16 @@
+/** 
+ * ---------------------------------------------------------------
+ *   Title: Javascript assignment for Singapore Polytechnic
+ *   Desc: Estate Feedback Management System
+ *   Author: Priya 
+ *   Group: DICS1
+ *   Start date: 07-JULY-2022
+ *   End date: 11-Aug-2022
+ *  --------------------------------------------------------------- 
+**/
+
+
+
 // [[ START OF LOCALSTORAGE & LOGOUT FUNCTION ]]
 
 // ----------------------------- Retrieve user data from localStorage ----------------------------- 
