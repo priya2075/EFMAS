@@ -1,3 +1,17 @@
+/** 
+ * ---------------------------------------------------------------
+ *   Title: Javascript assignment for Singapore Polytechnic
+ *   Desc: Estate Feedback Management System
+ *   Author: Priya 
+ *   Group: DICS1
+ *   Start date: 07-JULY-2022
+ *   End date: 11-Aug-2022
+ *  --------------------------------------------------------------- 
+**/
+
+
+
+
 /* ---------------------------------------------------------- 
    This lists logged in user data only and hides other users' data. 
    E.g., User Dew is logged in. Only she can view her content. 
